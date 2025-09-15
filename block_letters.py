@@ -1,0 +1,17 @@
+# Ashwin Murali
+# I play Table Tennis
+print("  A  ")
+print(" A A ")
+print("A   A")
+print("AAAAA")
+print("A   A")
+print("A   A")
+print("A   A")
+print("\n")
+print("M   M")
+print("MM MM")
+print("MM MM")
+print("M M M")
+print("M   M")
+print("M   M")
+print("M   M")
